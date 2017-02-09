@@ -1,0 +1,6 @@
+venv
+*.pyc
+.idea/vcs.xml
+.idea/workspace.xml
+myfirsthorukoapp/__pycache__/
+templates/
